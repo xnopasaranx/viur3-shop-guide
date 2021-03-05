@@ -44,9 +44,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'example Doc'
+project = u'Viur3 Web Shop Example Doc'
 copyright = u'2021, Mausbrand Informationssysteme GmbH'
-author = u'Tilman Oestereich, Andreas H. Kelch'
+author = u'Tilman Oestereich, Christos Atanasiadis'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -204,4 +204,4 @@ html_show_sourcelink = True
 # html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'example-doc'
+# htmlhelp_basename = 'example-doc'
